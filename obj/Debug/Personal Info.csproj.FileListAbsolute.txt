@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Personal Info\Personal Info\obj\Debug\Personal Info.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Personal Info\Personal Info\obj\Debug\Personal Info.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Personal Info\Personal Info\bin\Debug\Personal Info.exe.config
+C:\Users\DELL\source\repos\Personal Info\Personal Info\bin\Debug\Personal Info.exe
+C:\Users\DELL\source\repos\Personal Info\Personal Info\bin\Debug\Personal Info.pdb
+C:\Users\DELL\source\repos\Personal Info\Personal Info\obj\Debug\Personal Info.exe
+C:\Users\DELL\source\repos\Personal Info\Personal Info\obj\Debug\Personal Info.pdb
